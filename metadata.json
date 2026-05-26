@@ -1,0 +1,6 @@
+{
+  "name": "Farmacia Bonilla",
+  "description": "Sitio web oficial de Farmacia Bonilla. Encuentra tus medicamentos, productos de cuidado personal, bienestar y más con atención especializada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
